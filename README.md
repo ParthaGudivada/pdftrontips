@@ -1,1 +1,1 @@
-# pdftrontips
+# Tips
